@@ -1,1 +1,3 @@
-charleszang hello world!!
+---
+layout: home
+---
